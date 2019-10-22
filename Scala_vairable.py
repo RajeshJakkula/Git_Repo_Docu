@@ -9,5 +9,3 @@ csvFile.close()
 # scala vairable
 #pytho code
 bin()
-
-#Commit ID
