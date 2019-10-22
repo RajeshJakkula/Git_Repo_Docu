@@ -5,3 +5,7 @@ with open('SalesData.csv', 'r') as csvFile:
     for row in reader:
         print(row)
 csvFile.close()
+
+# scala vairable
+#pytho code
+bin()
